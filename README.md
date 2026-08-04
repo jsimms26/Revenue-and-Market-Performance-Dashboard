@@ -30,7 +30,7 @@ The set includes the following information:
 - Customer IDs
 - Countries
 
-## Skills
+## Tools
 - Power BI Desktop
 - Power Query
 - Data Analysis Expressions (DAX)
@@ -57,5 +57,19 @@ The set includes the following information:
 
 ## Data Preparation
 - Excluded records with missing customer IDs from customer-level analysis
-- Standardized fields
-- Created a calculated Revenue field
+- Standardized fields and formatted data types
+- Created a calculated Revenue field and DAX measures for KPIs and visual calculations
+
+## Business Insights
+The dashboard enables users to:
+- Track overall sales performance over time
+- Compare revenue across international markets
+- Identify the highest-performing products
+- Explore customer purchasing behavior
+- Dynamically filter results by month and country
+
+# Files
+Revenue_&_Market_Performance_Dashboard.pbix – Power BI project file
+README.md – Project documentation
+Dashboard_Home.png – Dashboard screenshot
+Dashboard_2010_Subset.png – Filtered dashboard screenshot
